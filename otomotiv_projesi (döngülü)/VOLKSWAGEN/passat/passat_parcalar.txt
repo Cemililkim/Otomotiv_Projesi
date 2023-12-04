@@ -1,0 +1,7 @@
+Burada passat modeline ait parcalar gosterilecektir
+
+Parca1 = 500 TL
+Parca2 = 1000 TL 
+Parca3 = 2000 TL 
+
+
