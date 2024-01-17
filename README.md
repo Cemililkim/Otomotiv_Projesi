@@ -1,3 +1,2 @@
-# Otomotiv_Projesi
-BSM 1.sınıf güz dönemi, dönem projem.
-Her hafta daha iyi ve daha stabil olması için güncellenmiş bir şekilde paylaşıma devam edilcektir
+# Automotive Project #
+Information Systems Engineering Year 1 Fall Term Class Project Which Is Made With Dev C++.You Can Learn More Information About This Project Is In Latest Release Part.
